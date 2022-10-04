@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/aboutimg.jpeg";
 import { BiAward, BiFolderOpen } from "react-icons/bi";
 import { FiUsers } from "react-icons/fi"
 
@@ -24,7 +24,7 @@ const About = () => {
                         <article className="about__card">
                             <BiAward className="abot__icon" />
                             <h5>Experience</h5>
-                            <small>2+ Years Working</small>
+                            <small>1+ Years Working</small>
                         </article>
 
                         <article className="about__card">
